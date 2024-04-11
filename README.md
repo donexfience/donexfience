@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="/" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
 - 🔭 I’m currently working on **FULL STACK**
 
 - 🌱 I’m currently learning **MERN**
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+Guys!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Kerala 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Kerala</h3>
 
 <br/>
 
