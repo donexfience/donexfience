@@ -84,8 +84,19 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='\' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div style="text-align: center;">
+  <a href="" target="_blank" style="
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+  ">
+    Contribute
+  </a>
 </div>
+
 
 <br/>
